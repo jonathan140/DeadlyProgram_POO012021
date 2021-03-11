@@ -1,0 +1,16 @@
+C:\Users\Rosimar\Desktop\VSCode\POO\Intro a Github\Intro_Github\obj\Debug\net5.0\Intro_Github.csprojAssemblyReference.cache
+C:\Users\Rosimar\Desktop\VSCode\POO\Intro a Github\Intro_Github\obj\Debug\net5.0\Intro_Github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosimar\Desktop\VSCode\POO\Intro a Github\Intro_Github\obj\Debug\net5.0\Intro_Github.AssemblyInfoInputs.cache
+C:\Users\Rosimar\Desktop\VSCode\POO\Intro a Github\Intro_Github\obj\Debug\net5.0\Intro_Github.AssemblyInfo.cs
+C:\Users\Rosimar\Desktop\VSCode\POO\Intro a Github\Intro_Github\obj\Debug\net5.0\Intro_Github.csproj.CoreCompileInputs.cache
+C:\Users\Rosimar\Desktop\VSCode\POO\Intro a Github\Intro_Github\bin\Debug\net5.0\Intro_Github.exe
+C:\Users\Rosimar\Desktop\VSCode\POO\Intro a Github\Intro_Github\bin\Debug\net5.0\Intro_Github.deps.json
+C:\Users\Rosimar\Desktop\VSCode\POO\Intro a Github\Intro_Github\bin\Debug\net5.0\Intro_Github.runtimeconfig.json
+C:\Users\Rosimar\Desktop\VSCode\POO\Intro a Github\Intro_Github\bin\Debug\net5.0\Intro_Github.runtimeconfig.dev.json
+C:\Users\Rosimar\Desktop\VSCode\POO\Intro a Github\Intro_Github\bin\Debug\net5.0\Intro_Github.dll
+C:\Users\Rosimar\Desktop\VSCode\POO\Intro a Github\Intro_Github\bin\Debug\net5.0\ref\Intro_Github.dll
+C:\Users\Rosimar\Desktop\VSCode\POO\Intro a Github\Intro_Github\bin\Debug\net5.0\Intro_Github.pdb
+C:\Users\Rosimar\Desktop\VSCode\POO\Intro a Github\Intro_Github\obj\Debug\net5.0\Intro_Github.dll
+C:\Users\Rosimar\Desktop\VSCode\POO\Intro a Github\Intro_Github\obj\Debug\net5.0\ref\Intro_Github.dll
+C:\Users\Rosimar\Desktop\VSCode\POO\Intro a Github\Intro_Github\obj\Debug\net5.0\Intro_Github.pdb
+C:\Users\Rosimar\Desktop\VSCode\POO\Intro a Github\Intro_Github\obj\Debug\net5.0\Intro_Github.genruntimeconfig.cache
