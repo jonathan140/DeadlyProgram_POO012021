@@ -14,12 +14,12 @@ namespace Intro_Github
             Console.WriteLine("Enter a value for b:");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Substracting  {a} - {b} equals {SubstractNumbers(a,b)}");
+            Console.WriteLine($"{a} times {b} equals {MultilpyNumbers(a,b)}");
         }
 
-        public static int SubstractNumbers(int a, int b)
+        public static int MultilpyNumbers(int a, int b)
         {
-            return a - b;
+            return a * b;
         }
     }
 }
